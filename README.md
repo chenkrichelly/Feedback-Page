@@ -21,15 +21,15 @@ To get started with the Feedback Page locally, follow these steps:
    ```bash
    cd Feedback-Page
 
-3.Install the project dependencies:
+3. Install the project dependencies:
    ```bash
    npm install
 
-3.Install the project dependencies:
+4. Run the development server:
    ```bash
    npm run dev
- ```
-4.Open your browser and visit http://localhost:3000 to see the Feedback Page in action.
+   
+5. Open your browser and visit http://localhost:3000 to see the Feedback Page in action.
 
 Rate away!
 
