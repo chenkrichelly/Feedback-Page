@@ -29,38 +29,10 @@ To get started with the Feedback Page locally, follow these steps:
    ```bash
    npm run dev
    
-5. Open your browser and visit http://localhost:3000 to see the Feedback Page in action.
+This will run JSON-server on port :5000 and React on port :3000
 
 Rate away!
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Usage
-
-### Install dependencies
-
-```bash
-npm install
-```
-
-### Run
-
-```bash
-npm run dev
-```
-
-This will run JSON-server on port :5000 and React on port :3000
