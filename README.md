@@ -2,6 +2,50 @@
 
 A project using React which enables users to provide feedback on services. Whether you're looking to gather user opinions, suggestions, or bug reports, this feedback page can be seamlessly integrated into your application. This project uses a mock REST api with json-server.
 
+## Features
+- Add new feedbacks with number rating and free text
+- Edit and delete existing entries
+- View average ratings of the service
+- Responsive design for various screen sizes
+
+## Getting Started
+
+To get started with the Feedback Page locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/chenkrichelly/Feedback-Page.git
+
+2.Navigate to the project directory:
+   ```bash
+   cd Feedback-Page
+3.Install the project dependencies:
+   ```bash
+   npm install
+3.Install the project dependencies:
+   ```bash
+   npm run dev
+4.Open your browser and visit http://localhost:3000 to see the Feedback Page in action.
+
+Rate away!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Usage
 
 ### Install dependencies
