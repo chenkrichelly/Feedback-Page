@@ -17,15 +17,17 @@ To get started with the Feedback Page locally, follow these steps:
    ```bash
    git clone https://github.com/chenkrichelly/Feedback-Page.git
 
-2.Navigate to the project directory:
+2. Navigate to the project directory:
    ```bash
    cd Feedback-Page
+
 3.Install the project dependencies:
    ```bash
    npm install
 3.Install the project dependencies:
    ```bash
    npm run dev
+
 4.Open your browser and visit http://localhost:3000 to see the Feedback Page in action.
 
 Rate away!
